@@ -1,10 +1,10 @@
 # MUST DO PATTERN PROBLEMS BEFORE STARTING DSA
 
+Source: [Striver’s A2Z DSA Course/Sheet](https://takeuforward.org/?s=Striver%27s+A2Z+DSA+Course)
+
 
 
 Patterns -> Nested loops
-
-
 
 ### General process
 
