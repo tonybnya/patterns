@@ -1,9 +1,10 @@
 # pylint: disable=all
 """
-   A
-  ABA
- ABCBA
-ABCDCBA
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
 """
 
 

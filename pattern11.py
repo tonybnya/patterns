@@ -24,7 +24,3 @@ def pattern(n, char='*'):
                 start = 1
 
         print()
-
-
-n = 5
-pattern(n)

@@ -22,7 +22,3 @@ def pattern(n, char='*'):
         for j in range(n - 1 - i):
             print(char, end='')
         print()
-
-
-n = 5
-pattern(n)
