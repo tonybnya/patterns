@@ -1,5 +1,7 @@
 # pylint: disable=all
 """
+Pattern 07:
+
     *
    ***
   *****
@@ -25,3 +27,6 @@ def pattern(n, char='*'):
             print(space, end='')
 
         print()
+
+
+pattern(5)
