@@ -1,5 +1,7 @@
 # pylint: disable=all
 """
+Pattern 14:
+
 A
 AB
 ABC
