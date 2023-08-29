@@ -14,6 +14,3 @@ Pattern 22:
 
 def pattern(n, char='*'):
     pass
-
-
-pattern(5)

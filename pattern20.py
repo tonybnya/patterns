@@ -31,6 +31,3 @@ def pattern(n, char='*'):
             print(char, end='')
 
         print()
-
-
-pattern(5)
