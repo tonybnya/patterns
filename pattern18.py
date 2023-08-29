@@ -11,7 +11,7 @@ ABCDE
 
 
 def pattern(n, char='*'):
-    start = 69
+    start = 65 + (n - 1)
 
     for i in range(1, n + 1):
         for j in range(1, i + 1):
